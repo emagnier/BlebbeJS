@@ -1,6 +1,6 @@
 //	BlebbeJS - 2014
-//	https://github.com/PEMagnier/Blebbe
 //  MIT License - Copyright (c) 2014 P-E Magnier
+//	https://github.com/PEMagnier/Blebbe
 
 function blebbe(id_element, tailleminimumdestuiles, taillemaximaldestuiles, repartition_formes) { // repartition_formes : petit, moyen, gros
     var matrice = (function () {
