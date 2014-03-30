@@ -1,5 +1,5 @@
-BlebbeJS
-========
+BlebbeJS v.0.1.0
+================
 
 A simple moodboard generator. You need jQuery for animations.
 ```javascript
