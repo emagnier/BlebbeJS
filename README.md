@@ -1,7 +1,7 @@
 BlebbeJS
 ========
 
-A simple moodboard generator.
+A simple moodboard generator. You need jQuery for animations.
 ```javascript
 blebbe(id_element, min_size, max_size, distribution);
 ```
